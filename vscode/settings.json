@@ -1,0 +1,79 @@
+{
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[python]": {
+		"editor.formatOnType": true
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.cursorBlinking": "phase",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.largeFileOptimizations": false,
+	"editor.minimap.enabled": false,
+	"editor.smoothScrolling": true,
+	"editor.suggest.preview": true,
+	"editor.unicodeHighlight.allowedLocales": {
+		"ru": true
+	},
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"editor.unicodeHighlight.invisibleCharacters": false,
+	"explorer.compactFolders": false,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"explorer.fileNesting.expand": false,
+	"extensions.ignoreRecommendations": true,
+	"files.trimFinalNewlines": true,
+	"files.trimTrailingWhitespace": true,
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"git.openRepositoryInParentFolders": "never",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"security.workspace.trust.banner": "never",
+	"security.workspace.trust.emptyWindow": false,
+	"security.workspace.trust.enabled": false,
+	"security.workspace.trust.startupPrompt": "never",
+	"security.workspace.trust.untrustedFiles": "open",
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.cursorWidth": 2,
+	"terminal.integrated.defaultProfile.windows": "pwsh",
+	"terminal.integrated.drawBoldTextInBrightColors": false,
+	"terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+	"terminal.integrated.fontSize": 14,
+	"terminal.integrated.gpuAcceleration": "auto",
+	"terminal.integrated.minimumContrastRatio": 7,
+	"terminal.integrated.profiles.windows": {
+		"Command Prompt": {
+			"path": [
+				"${env:windir}\\Sysnative\\cmd.exe",
+				"${env:windir}\\System32\\cmd.exe"
+			],
+			"icon": "terminal-cmd"
+		},
+		"pwsh": {
+			"path": "C:\\Program Files\\PowerShell\\7\\pwsh.exe"
+		}
+	},
+	"terminal.integrated.smoothScrolling": true,
+	"terminal.integrated.tabs.description": "",
+	"terminal.integrated.tabs.title": "${process} - ${cwd}",
+	"terminal.integrated.useWslProfiles": false,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"window.commandCenter": false,
+	"window.titleBarStyle": "custom",
+	"workbench.colorTheme": "Ayu Mirage Bordered",
+	"workbench.editor.highlightModifiedTabs": true,
+	"workbench.editorAssociations": {
+		"*.db": "sqlite3-editor.editor"
+	},
+	"workbench.iconTheme": "vscode-great-icons",
+	"workbench.layoutControl.enabled": false,
+	"workbench.list.smoothScrolling": true,
+	"workbench.startupEditor": "none",
+	"workbench.tree.indent": 4
+}
