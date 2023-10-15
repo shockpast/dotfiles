@@ -6,3 +6,11 @@ rezka.ag##.b-collections__newest
 rezka.ag##.b-tophead__subscribe-dropdown-inner
 rezka.ag##.pull-right.b-tophead-right
 rezka.ag###ybeedf5bd24a9ce055f76edfd39a587e1
+rezka.ag##.clearfix.b-post__status_wrapper
+rezka.ag##.b-post__support_holder
+rezka.ag##.tooltipstered.hd-tooltip.b-post__support_holder_report
+rezka.ag##.b-post__rating
+rezka.ag##.b-post__rating_table .label
+rezka.ag##.add-favorite-un.btn-helper.btn
+rezka.ag##.b-sideactions__reviews > .btn-action.btn
+rezka.ag##.b-content__main > .b-post__mixedtext
