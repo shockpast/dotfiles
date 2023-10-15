@@ -1,0 +1,8 @@
+! 2023-10-15 https://rezka.ag
+||static.hdrezka.ac/templates/hdrezka/images/slava.jpg$image
+||static.hdrezka.ac/templates/hdrezka/images/slava.jpg$image
+rezka.ag##[src="https://static.hdrezka.ac/templates/hdrezka/images/slava.jpg"]
+rezka.ag##.b-collections__newest
+rezka.ag##.b-tophead__subscribe-dropdown-inner
+rezka.ag##.pull-right.b-tophead-right
+rezka.ag###ybeedf5bd24a9ce055f76edfd39a587e1
