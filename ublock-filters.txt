@@ -14,3 +14,8 @@ rezka.ag##.b-post__rating_table .label
 rezka.ag##.add-favorite-un.btn-helper.btn
 rezka.ag##.b-sideactions__reviews > .btn-action.btn
 rezka.ag##.b-content__main > .b-post__mixedtext
+
+! 2023-10-21 https://www.youtube.com
+www.youtube.com###endpoint > .ytd-guide-entry-renderer.style-scope
+www.youtube.com###guide-inner-content
+www.youtube.com###guide-content
